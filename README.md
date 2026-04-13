@@ -87,11 +87,11 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h2 align="left">My Repo :</h2>
-
-<picture>
+<img src="https://raw.githubusercontent.com/muhammad-naufal-afif/muhammad-naufal-afif/output/snake.svg" alt="Snake animation" />
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammad-naufal-afif/muhammad-naufal-afif/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammad-naufal-afif/muhammad-naufal-afif/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muhammad-naufal-afif/muhammad-naufal-afif/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
-<!-- <img src="https://raw.githubusercontent.com/muhammad-naufal-afif/muhammad-naufal-afif/output/snake.svg" alt="Snake animation" /> -->
+
