@@ -5,10 +5,10 @@
 
 <h2 align="left">Connect with me :</h2>
 <div align="left">
-    <a href="https://instagram.com/https://www.instagram.com/__apipp_/" target="_blank">
+    <a href="https://instagram.com/__apipp_/" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
       </a>
-    <a href="https://fb.com/https://www.facebook.com/apipp.naufall43/" target="_blank">
+    <a href="https://www.facebook.com/apipp.naufall43/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
     <a href="https://t.me/zzzzzZzxxuan" target="_blank">
