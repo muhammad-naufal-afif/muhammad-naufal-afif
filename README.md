@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, Wellcome to my guys!!</h1>
-🧑‍💻 I’m a freelance dev<br>
-👀 Looking for project<br>
+🧑‍💻 I’m a indie developer<br>
+👀 Looking for any project<br>
 🌱 I’m currently learning and growing<br>
 
 <h2 align="left">Connect with me :</h2>
